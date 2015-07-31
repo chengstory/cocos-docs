@@ -15,10 +15,10 @@
 
 ## 如何定制 Cocos Framework
 
-定制 Cocos Framework 实际上就是修改安装的源码。在 Cocos Framework 安装完成后，使用自己常用的 IDE 工具或者代码编辑器对安装的源码进行修改即可。
+定制 Cocos Framework 实际上就是修改安装的源码。在 Cocos Framework 安装完成后,可以使用XCode 6.1及其以上的版本 和 Visual Studio 2013进行修改与调试。
 
 * Mac 系统可以使用 XCode 打开工程文件 `/Applications/Cocos/frameworks/cocos2d-x-v3.7/build/CocosFramework.xcodeproj` ，然后修改与调试代码即可定制引擎。
-* Windows 系统可以使用 Visual Studio 打开工程文件 `[安装目录]/frameworks/cocos2d-x-v3.7/build/CocosFramework.sln`，然后修改与调试代码即可定制引擎。
+* Windows 系统可以使用 Visual Studio 2013 打开工程文件 `[安装目录]/frameworks/cocos2d-x-v3.7/build/CocosFramework.sln`，然后修改与调试代码即可定制引擎。
 
 ## 如何生成定制后的 Cocos Framework
 
